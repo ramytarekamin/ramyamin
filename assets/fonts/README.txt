@@ -1,0 +1,1 @@
+EB Garamond and Josefin Sans, Latin webfonts, from @fontsource packages version 5.3.0. Downloaded from registry.npmjs.org and verified against package SHA-512 integrity metadata. See accompanying SIL Open Font License files. These local fonts replace the original Google Fonts import; no typography styles were changed.
